@@ -37,11 +37,7 @@ The GP project is distributed across specialized repositories to ensure a produc
 * [**gp-experiments**](https://github.com/GraphicalPlayground/gp-experiments): A sandbox for community-driven projects, demos, and research.
 * [**gp-sample-projects**](https://github.com/GraphicalPlayground/gp-sample-projects): A collection of open-source projects built on top of the GP engine, showcasing various techniques and applications.
 
----
-
-<br>
-
-<h1>How learning graphics engineering actually starts</h1>
+<h2>How learning graphics engineering actually starts</h2>
 <div align="center">
     <a href="#" target="_blank">
         <img src="../assets/how-to-start/step1.svg" width="32.6%" alt="Open the platform" />
@@ -61,17 +57,32 @@ The GP project is distributed across specialized repositories to ensure a produc
     </a>
 </div>
 
-<br>
-
----
-
 ## The Founders
 Based in **Lyon, France (2028)**, our team combines expertise in rendering architecture, frontend systems, and cloud infrastructure.
 
-| [<img src="https://github.com/mallory-scotton.png" width="100" height="100" style="border-radius:50%"/>](https://github.com/natan-fievet) | [<img src="https://github.com/natan-fievet.png" width="100" height="100" style="border-radius:50%"/>](https://github.com/Hugo-Cathelain) | [<img src="https://github.com/Hugo-Cathelain.png" width="100" height="100" style="border-radius:50%"/>](https://github.com/Hugo-Cathelain) | [<img src="https://github.com/omegalpha28.png" width="100" height="100" style="border-radius:50%"/>](https://github.com/Hugo-Cathelain) | [<img src="https://github.com/bombabobo.png" width="100" height="100" style="border-radius:50%"/>](https://github.com/Hugo-Cathelain) |
-|:--:|:--:|:--:|:--:|:--:|
-| **[Mallory SCOTTON](https://github.com/mallory-scotton)** | **[Nathan FIEVET](https://github.com/natan-fievet)** | **[Hugo CATHELAIN](https://github.com/Hugo-Cathelain)** | **[Ossan MSOILI](https://github.com/omegalpha28)** |**[Raphael OSTIER](https://github.com/bombabobo)** |
-| *Rendering Technical Architect* | *Graphics Engineer* | *Frontend Developer* | *DevOps Engineer* | *Frontend Developer* |
+<div align="center">
+    <a href="https://github.com/mallory-scotton" title="Mallory SCOTTON">
+        <img src="../assets/founders/mallory-scotton.svg" width="49%" alt="Mallory SCOTTON" />
+    </a>
+    <a href="https://github.com/Hugo-Cathelain" title="Hugo CATHELAIN">
+        <img src="../assets/founders/hugo-cathelain.svg" width="49%" alt="Hugo CATHELAIN" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Omegalpha28" title="Ossan MSOILI">
+        <img src="../assets/founders/ossan-msoili.svg" width="49%" alt="Ossan MSOILI" />
+    </a>
+    <a href="https://github.com/natan-fievet" title="Nathan FIEVET">
+        <img src="../assets/founders/nathan-fievet.svg" width="49%" alt="Nathan FIEVET" />
+    </a>
+</div>
+
+<div align="left">
+    <a href="https://github.com/bombabobo" title="Raphaël OSTIER">
+        <img src="../assets/founders/raphael-ostier.svg" width="49%" alt="Raphaël OSTIER" />
+    </a>
+</div>
 
 ---
 
