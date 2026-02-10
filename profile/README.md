@@ -44,14 +44,17 @@ The GP project is distributed across specialized repositories to ensure a produc
 <h1>How learning graphics engineering actually starts</h1>
 <div align="center">
     <a href="#" target="_blank">
-        <img align="left" src="../assets/how-to-start/step1.svg" width="33%" alt="Open the platform" />
+        <img src="../assets/how-to-start/step1.svg" width="32.6%" alt="Open the platform" />
     </a>
-    <img align="center" src="../assets/how-to-start/step2.svg" width="33%" alt="Code and experiment" />
+    &nbsp;
     <a href="#" target="_blank">
-        <img align="right" src="../assets/how-to-start/step3.svg" width="33%" alt="See, iterate, understand" />
+        <img src="../assets/how-to-start/step2.svg" width="32.6%" alt="Write code, see results" />
+    </a>
+    &nbsp;
+    <a href="#" target="_blank">
+        <img src="../assets/how-to-start/step3.svg" width="32.6%" alt="See, iterate, understand" />
     </a>
 </div>
-<br>
 <div align="center">
     <a href="#" target="_blank">
         <img src="../assets/how-to-start/deep.svg" alt="Want to go deeper into low-level graphics?" />
