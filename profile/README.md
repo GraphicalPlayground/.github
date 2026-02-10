@@ -78,7 +78,7 @@ Based in **Lyon, France (2028)**, our team combines expertise in rendering archi
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://github.com/bombabobo" title="Raphaël OSTIER">
         <img src="../assets/founders/raphael-ostier.svg" width="49%" alt="Raphaël OSTIER" />
     </a>
