@@ -3,7 +3,20 @@
 
 Graphical Playground is a hybrid ecosystem designed to democratize **Graphics Engineering**. We bridge the gap between high-level creative tools and low-level hardware programming by providing a frictionless, cloud-native environment for building modern rendering systems.
 
-[Explore the Platform](#) • [Read the Handbook](https://github.com/GraphicalPlayground/gp-handbook) • [Documentation](https://github.com/GraphicalPlayground/gp-docs)
+<div align="left">
+    <a href="#" target="_blank">
+        <img src="../assets/cta/explore.svg" alt="Explore the Platform" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-handbook" target="_blank">
+        <img src="../assets/cta/handbook.svg" alt="Read the Handbook" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-docs" target="_blank">
+        <img src="../assets/cta/documentation.svg" alt="Documentation" />
+    </a>
+    <a href="#" target="_blank">
+        <img src="../assets/cta/licensing.svg" alt="Learn about licensing" />
+    </a>
+</div>
 
 ## The Vision: A Deconstructionist Pedagogy
 Graphics engineering shouldn't be opaque. We don't just teach you to use tools; we empower you to build them from the ground up. Our approach is inspired by the **deconstructionist pedagogy**: we break down complex rendering systems into their fundamental components, allowing learners to understand and reconstruct them in their own way. This method fosters deep comprehension and creativity, enabling anyone to become a graphics engineer without needing to master every detail of existing engines.
