@@ -1,4 +1,9 @@
-# Graphical Playground (GP)
+<div align="center">
+    <a href="#">
+        <img src="../assets/common/logo.svg" width="100%" alt="Graphical Playground Logo" />
+    </a>
+</div>
+
 ### Learning Graphics Engineering. Not Using Engines.
 
 Graphical Playground is a hybrid ecosystem designed to democratize **Graphics Engineering**. We bridge the gap between high-level creative tools and low-level hardware programming by providing a frictionless, cloud-native environment for building modern rendering systems.
