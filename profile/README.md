@@ -20,22 +20,35 @@ GP is built on a **"Deconstructionist" pedagogy**:
 ## The Ecosystem
 The GP project is distributed across specialized repositories to ensure a production-grade modular architecture:
 
-### The Core Engine
-* [**gp-engine**](https://github.com/GraphicalPlayground/gp-engine): A high-performance C++ multi-platform library. The primary medium for learning architecture, RHI, and modern GPU pipelines.
-
-### The Platform
-* [**gp-platform**](https://github.com/GraphicalPlayground/gp-platform): Our cloud-native learning environment. Code in the browser, render on real remote GPUs.
-* [**gp-infrastructure**](https://github.com/GraphicalPlayground/gp-infrastructure): Orchestration for remote GPU execution and scalable VM rendering services.
-
-### Education & Certification
-* [**gp-curriculum**](https://github.com/GraphicalPlayground/gp-curriculum): The structured syllabus from basic algorithms to advanced engine design.
-* [**gp-handbook**](https://github.com/GraphicalPlayground/gp-handbook): The theory-to-implementation reference guide.
-* [**gp-certifications**](https://github.com/GraphicalPlayground/gp-certifications): Project-based validation of engineering skills.
-
-### Community & Open Source
-* [**gp-docs**](https://github.com/GraphicalPlayground/gp-docs): Comprehensive documentation, API references, and contribution guidelines.
-* [**gp-experiments**](https://github.com/GraphicalPlayground/gp-experiments): A sandbox for community-driven projects, demos, and research.
-* [**gp-sample-projects**](https://github.com/GraphicalPlayground/gp-sample-projects): A collection of open-source projects built on top of the GP engine, showcasing various techniques and applications.
+<div align="center">
+    <a href="https://github.com/GraphicalPlayground/gp-engine" target="_blank">
+        <img src="../assets/ecosystem/gp-engine.svg" alt="GP Engine" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-platform" target="_blank">
+        <img src="../assets/ecosystem/gp-platform.svg" alt="GP Platform" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-infrastructure" target="_blank">
+        <img src="../assets/ecosystem/gp-infrastructure.svg" alt="GP Infrastructure" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-curriculum" target="_blank">
+        <img src="../assets/ecosystem/gp-curriculum.svg" alt="GP Curriculum" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-handbook" target="_blank">
+        <img src="../assets/ecosystem/gp-handbook.svg" alt="GP HandBook" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-certifications" target="_blank">
+        <img src="../assets/ecosystem/gp-certifications.svg" alt="GP Certifications" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-docs" target="_blank">
+        <img src="../assets/ecosystem/gp-docs.svg" alt="GP Docs" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-experiments" target="_blank">
+        <img src="../assets/ecosystem/gp-experiments.svg" alt="GP Experiments" />
+    </a>
+    <a href="https://github.com/GraphicalPlayground/gp-sample-projects" target="_blank">
+        <img src="../assets/ecosystem/gp-sample-projects.svg" alt="GP Sample Projects" />
+    </a>
+</div>
 
 <h2>How learning graphics engineering actually starts</h2>
 <div align="center">
