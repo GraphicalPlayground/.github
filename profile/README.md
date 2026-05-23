@@ -1,4 +1,4 @@
-![Graphical Playground](../assets/misc/gplayd-banner.svg)
+![Graphical Playground](./assets/misc/gplayd-banner.svg)
 
 ### Learning Graphics Engineering. Not Using Engines.
 
@@ -6,10 +6,10 @@ Graphical Playground is a hybrid ecosystem designed to democratize **Graphics En
 bridge the gap between high-level creative tools and low-level hardware programming by providing a
 frictionless, cloud-native environment for building modern rendering systems.
 
-[![Explore the Platform](../assets/cta/cta-explore-platform.svg)](https://graphical-playground.com)
-[![Read the Handbook](../assets/cta/cta-read-handbook.svg)](https://handbook.graphical-playground.com)
-[![Documentation](../assets/cta/cta-documentation.svg)](https://docs.graphical-playground.com)
-[![Learn about Licensing](../assets/cta/cta-learn-licensing.svg)](https://graphical-playground.com/licensing)
+[![Explore the Platform](./assets/cta/cta-explore-platform.svg)](https://graphical-playground.com)
+[![Read the Handbook](./assets/cta/cta-read-handbook.svg)](https://handbook.graphical-playground.com)
+[![Documentation](./assets/cta/cta-documentation.svg)](https://docs.graphical-playground.com)
+[![Learn about Licensing](./assets/cta/cta-learn-licensing.svg)](https://graphical-playground.com/licensing)
 
 ## The Vision: A Deconstructionist Pedagogy
 
@@ -20,21 +20,21 @@ understand and reconstruct them in their own way. This method fosters deep compr
 creativity, enabling anyone to become a graphics engineer without needing to master every detail
 of existing engines.
 
-![Deconstructionist Pedagogy](../assets/misc/gplayd-timeline.svg)
+![Deconstructionist Pedagogy](./assets/misc/gplayd-timeline.svg)
 
 ## The Ecosystem
 
 The GP project is distributed across specialized repositories to ensure a production-grade
 modular architecture:
 
-![GP Ecosystem](../assets/misc/gplayd-ecosystem.svg)
+![GP Ecosystem](./assets/misc/gplayd-ecosystem.svg)
 
 ## The Founders
 
 Based in **Lyon, France (2028)**, our team combines expertise in rendering architecture,
 frontend systems, and cloud infrastructure.
 
-![The Founders](../assets/misc/gplayd-team.svg)
+![The Founders](./assets/misc/gplayd-team.svg)
 
 ---
 
@@ -50,4 +50,4 @@ Graphical Playground remains a fair and accessible standard for all.
   Open Source. Open Minds.
 </p>
 
-![Graphical Playground](../assets/misc/gplayd-footer.svg)
+![Graphical Playground](./assets/misc/gplayd-footer.svg)
