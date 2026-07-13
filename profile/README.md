@@ -92,4 +92,6 @@ you! You can reach out to us through the following channels:
   <a href="https://graphical-playground.com/legal">Legal</a>
 </div>
 
+<br>
+
 ![Graphical Playground](https://github.com/GraphicalPlayground/.github/blob/main/assets/misc/gplayd-footer.svg)
