@@ -81,4 +81,17 @@ you! You can reach out to us through the following channels:
   Open Source. Open Minds.
 </p>
 
+---
+<center>
+
+Useful Links:  
+[Platform](https://graphical-playground.com)
+・[Handbook](https://handbook.graphical-playground.com)
+・[Documentation](https://docs.graphical-playground.com)
+・[Blog](https://docs.graphical-playground.com/blog)
+・[Licensing](https://graphical-playground.com/licensing)
+・[Legal](https://graphical-playground.com/legal)
+
+</center>
+
 ![Graphical Playground](https://github.com/GraphicalPlayground/.github/blob/main/assets/misc/gplayd-footer.svg)
