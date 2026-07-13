@@ -82,16 +82,14 @@ you! You can reach out to us through the following channels:
 </p>
 
 ---
-<center>
-
-Useful Links:  
-[Platform](https://graphical-playground.com)
-・[Handbook](https://handbook.graphical-playground.com)
-・[Documentation](https://docs.graphical-playground.com)
-・[Blog](https://docs.graphical-playground.com/blog)
-・[Licensing](https://graphical-playground.com/licensing)
-・[Legal](https://graphical-playground.com/legal)
-
-</center>
+<div align="center">
+  Useful Links: <br>
+  <a href="https://graphical-playground.com">Platform</a> ・
+  <a href="https://handbook.graphical-playground.com">Handbook</a> ・
+  <a href="https://docs.graphical-playground.com">Documentation</a> ・
+  <a href="https://docs.graphical-playground.com/blog">Blog</a> ・
+  <a href="https://graphical-playground.com/licensing">Licensing</a> ・
+  <a href="https://graphical-playground.com/legal">Legal</a>
+</div>
 
 ![Graphical Playground](https://github.com/GraphicalPlayground/.github/blob/main/assets/misc/gplayd-footer.svg)
