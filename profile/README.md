@@ -31,78 +31,12 @@ modular architecture:
 
 ## Products
 
-[![GPlayd Actions](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-actions.svg)](https://github.com/GraphicalPlayground/gp-actions)  
-<sub>
-A collection of reusable GitHub Actions designed for automation and continuous integration.
-Provides standardized workflows over modern development pipelines, enabling contributors to build,
-test, and maintain core graphics projects and ecosystem infrastructure.
-</sub>
-
-[![GPlayd Platform](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-platform.svg)](https://graphical-playground.com)  
-<sub>
-The cloud-native learning platform powering Graphical Playground. Hosts interactive courses,
-executes graphics code on remote GPUs, and delivers real-time visual feedback through a web-based
-environment.
-</sub>
-
-[![GPlayd Docs](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-docs.svg)](https://docs.graphical-playground.com)  
-<sub>
-Technical documentation for the Graphical Playground ecosystem, including engine internals,
-platform architecture, APIs, and contributor guidelines.
-</sub>
-
-[![GPlayd Blog](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-blog.svg)](https://docs.graphical-playground.com/blog)  
-<sub>
-A public-facing blog for sharing insights, tutorials, and updates on the progress and research
-conducted within the Graphical Playground ecosystem. Aims to foster community engagement and
-knowledge sharing among graphics engineers, students, and enthusiasts.
-</sub>
-
-[![GPlayd Build Tool](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-build-tool.svg)](https://github.com/GraphicalPlayground/gp-build-tool)  
-<sub>
-The core build orchestrator for Graphical Playground, abstracting CMake configuration, dependencies,
-and source management.
-</sub>
-
-[![GPlayd Curriculum](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-curriculum.svg)](https://graphical-playground.com/curriculum)  
-<sub>
-Structured learning paths covering graphics engineering from foundational algorithms to advanced
-GPU systems. Defines progression, learning objectives, and module dependencies across the platform.
-</sub>
-
-[![GPlayd Certifications](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-certifications.svg)](https://graphical-playground.com/certifications)  
-<sub>
-Certification programs and assessment frameworks for validating real-world graphics engineering
-skills through project-based evaluations in controlled rendering environments.
-</sub>
-
-[![GPlayd Engine](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine.svg)](https://github.com/GraphicalPlayground/gp-engine)  
-<sub>
-A C++ graphics engine designed for learning and experimentation. Provides progressive abstractions
-over modern rendering systems, enabling users to study, modify, and reimplement core graphics
-concepts and engine architecture.
-</sub>
-
-![GPlayd Engine - NDA Nintendo Switch](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-switch.svg)  
-<sub>
-Nintendo Switch platform abstraction layer for the gp-engine. Provides hardware-specific RHI
-implementations, NVN/Vulkan bindings, and console-specific memory management for learning and
-evaluating hardware-level graphics development under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).
-</sub>
-
-![GPlayd Engine - NDA PlayStation](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-playstation.svg)  
-<sub>
-PlayStation 4 and PlayStation 5 platform abstraction layer for the gp-engine. Implements AGC/GNM
-rendering backends, PSSL shader pipelines, and Sony SDK integrations for studying console
-architecture and low-level optimization under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).
-</sub>
-
-![GPlayd Engine - NDA Xbox](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-xbox.svg)  
-<sub>
-Xbox One and Xbox Series X|S platform abstraction layer for the gp-engine. Utilizes the Microsoft
-GDK to implement Direct3D 12 console backends, HLSL pipelines, and platform-specific optimizations
-for studying modern Xbox architecture under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).
-</sub>
+| | | |
+| :---: | :---: | :---: |
+| [![GPlayd Actions](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-actions.svg)](https://github.com/GraphicalPlayground/gp-actions)<br><br><sub>A collection of reusable GitHub Actions designed for automation and continuous integration. Provides standardized workflows over modern development pipelines, enabling contributors to build, test, and maintain core graphics projects and ecosystem infrastructure.</sub> | [![GPlayd Platform](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-platform.svg)](https://graphical-playground.com)<br><br><sub>The cloud-native learning platform powering Graphical Playground. Hosts interactive courses, executes graphics code on remote GPUs, and delivers real-time visual feedback through a web-based environment.</sub> | [![GPlayd Docs](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-docs.svg)](https://docs.graphical-playground.com)<br><br><sub>Technical documentation for the Graphical Playground ecosystem, including engine internals, platform architecture, APIs, and contributor guidelines.</sub> |
+| [![GPlayd Blog](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-blog.svg)](https://docs.graphical-playground.com/blog)<br><br><sub>A public-facing blog for sharing insights, tutorials, and updates on the progress and research conducted within the Graphical Playground ecosystem. Aims to foster community engagement and knowledge sharing among graphics engineers, students, and enthusiasts.</sub> | [![GPlayd Build Tool](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-build-tool.svg)](https://github.com/GraphicalPlayground/gp-build-tool)<br><br><sub>The core build orchestrator for Graphical Playground, abstracting CMake configuration, dependencies, and source management.</sub> | [![GPlayd Curriculum](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-curriculum.svg)](https://graphical-playground.com/curriculum)<br><br><sub>Structured learning paths covering graphics engineering from foundational algorithms to advanced GPU systems. Defines progression, learning objectives, and module dependencies across the platform.</sub> |
+| [![GPlayd Certifications](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-certifications.svg)](https://graphical-playground.com/certifications)<br><br><sub>Certification programs and assessment frameworks for validating real-world graphics engineering skills through project-based evaluations in controlled rendering environments.</sub> | [![GPlayd Engine](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine.svg)](https://github.com/GraphicalPlayground/gp-engine)<br><br><sub>A C++ graphics engine designed for learning and experimentation. Provides progressive abstractions over modern rendering systems, enabling users to study, modify, and reimplement core graphics concepts and engine architecture.</sub> | ![GPlayd Engine - NDA Nintendo Switch](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-switch.svg)<br><br><sub>Nintendo Switch platform abstraction layer for the gp-engine. Provides hardware-specific RHI implementations, NVN/Vulkan bindings, and console-specific memory management for learning and evaluating hardware-level graphics development under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).</sub> |
+| ![GPlayd Engine - NDA PlayStation](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-playstation.svg)<br><br><sub>PlayStation 4 and PlayStation 5 platform abstraction layer for the gp-engine. Implements AGC/GNM rendering backends, PSSL shader pipelines, and Sony SDK integrations for studying console architecture and low-level optimization under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).</sub> | ![GPlayd Engine - NDA Xbox](https://github.com/GraphicalPlayground/.github/blob/main/assets/products/gp-engine-xbox.svg)<br><br><sub>Xbox One and Xbox Series X\|S platform abstraction layer for the gp-engine. Utilizes the Microsoft GDK to implement Direct3D 12 console backends, HLSL pipelines, and platform-specific optimizations for studying modern Xbox architecture under [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).</sub> | |
 
 ## The Founders
 
